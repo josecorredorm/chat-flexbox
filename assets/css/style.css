@@ -28,11 +28,47 @@ justify-content: center;
 }
 
 .chat-box1{
+    align-items: center;
     display: flex;
+    justify-content: center;
+    height: 59px;
+    border-bottom: 10px;
+    border-color: black;
 }
-
-
+.chat-box-text{
+    padding: 10px;
+}
+.text-style-name{
+    margin: 0%;
+    font-size: 12px;
+}
+.text-style-chat{
+    font-size: 10px;
+    margin: 0%;
+}
 .img-profile{
     width: 35px;
     border-radius: 50%;
+}
+.chat-box2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 118px;
+    border: 3px;
+    border-color: black;
+}
+.bottom-style{
+    background-color: #A491D2;
+    width: 60%;
+    height: 50px;
+    color: white;
+    border: 0px;
+}
+.chat-box3{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 59px;
+    border-color: black;
 }
