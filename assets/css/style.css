@@ -1,0 +1,38 @@
+main{
+    display: flex;
+}
+.section-contact{
+    width: 20%;
+    height: 652px;
+}
+.section-main{
+background-color: #E8EBE4;
+width: 80%;
+height: 652px;
+align-items: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.img-ref{
+    width: 200px;
+}
+.text-style-1{
+    font-size: 45px;
+    margin: 0%;
+}
+.text-style-2{
+    font-size: 16px;
+    margin: 5px 300px;
+    text-align: center;
+}
+
+.chat-box1{
+    display: flex;
+}
+
+
+.img-profile{
+    width: 35px;
+    border-radius: 50%;
+}
