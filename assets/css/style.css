@@ -1,12 +1,12 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-main{
+.container{
     display: flex;
 }
 .section-contact{
     width: 17%;
-    height: 652px;
+    height: 100vh;
 }
 .section-main{
 background-color: #E8EBE4;
